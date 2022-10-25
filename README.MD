@@ -501,9 +501,6 @@ Delete from Kubernetes
 ```shell script
 kubectl delete -f target/kubernetes/minikube.yaml
 ```
-http://192.168.64.2:31747/ehealthcare/v1/appointments
-http://192.168.64.2:31799/ehealthcare/v1/doctors
-
 
 
 
